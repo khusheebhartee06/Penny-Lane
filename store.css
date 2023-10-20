@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color: goldenrod;
+}
+.nav-item a:hover{
+    color: goldenrod;
+}
+.col-12 h2{
+    color: rgb(187, 143, 33);
+
+}
+.col-sm-4 h5{
+    color: rgb(192, 139, 6);
+}
+.col-sm-4 img{
+    height: 85%;
+    width: 100%;
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}

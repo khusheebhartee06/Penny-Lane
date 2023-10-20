@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+    color: goldenrod;
+}
+.nav-item a:hover{
+    color: goldenrod;
+}
+#mytable td:hover{
+    background-color: rgb(207, 203, 203);
+}
+.col-12 h2{
+    color: rgb(187, 143, 33);
+padding: 4%;
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}

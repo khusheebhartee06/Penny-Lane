@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    color: goldenrod;
+}
+.nav-item a:hover{
+    color: goldenrod;
+}
+.col-12 h2{
+    color: rgb(187, 143, 33);
+padding: 4%;
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
